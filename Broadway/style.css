@@ -105,6 +105,7 @@ footer p {
   display: inline-block;
   width: 200px;
   height: 200px;
+  padding:20px;
 }
 
 .supporting img {
