@@ -105,6 +105,7 @@ footer p {
   display: inline-block;
   width: 200px;
   height: 200px;
+  padding: 30px;
 }
 
 .supporting img {
@@ -147,5 +148,6 @@ footer p {
 
   .supporting .col {
     width: 100%;
+    
   }
 }
