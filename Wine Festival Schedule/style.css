@@ -40,6 +40,7 @@ th {
 table {
   text-align: center;
   margin: 20px auto;
+  z-index:5;
 }
 
 td {
