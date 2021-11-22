@@ -1,0 +1,66 @@
+body {
+  background-color:beige; //BlanchedAlmond;
+  color: black;
+  font-family: 'Oswald', sans-serif;
+}
+
+header {
+  text-align: center;
+  margin-top: 5px;
+}
+
+h1 {
+  font-size: 36px;
+  padding: 15px;
+  color: black;
+  background-color: white;
+}
+
+h2 {
+  font-size: 24px;
+  padding: 15px;
+  text-transform: uppercase;
+}
+
+h3 {
+  font-size: 20px;
+  padding: 15px;
+  text-transform: none;
+  text-align: left;
+  margin-left: 20px;
+  font-weight: 600;
+  line-height: 2.7;
+  letter-spacing: 0.8px;
+}
+
+th {
+  border: 3px solid black;
+}
+
+table {
+  text-align: center;
+  margin: 20px auto;
+}
+
+td {
+  border: 3px solid black;
+  width: 500px;
+}
+span{
+  font-family: monospace;
+  background-color: gainsboro;
+  text-transform:none;
+  font-weight: bold;
+}
+
+
+.container {
+  max-width: 940px;
+  margin: 0 auto;
+  height: 800px;
+}
+
+
+.left {
+  width: 150px;
+}
