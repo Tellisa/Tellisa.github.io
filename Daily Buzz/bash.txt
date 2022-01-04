@@ -1,0 +1,76 @@
+
+$ pwd
+/home/ccuser/workspace/daily-buzz
+$ ls
+culture  health  national  technology
+$ cd national/politics
+$ pwd
+/home/ccuser/workspace/daily-buzz/national/politics
+$ ls
+policy
+$ mkdir elections
+$ ls
+elections  policy
+$ cd elections
+$ touch candidates.txt
+$ touch issues.txt
+$ cd ../../../
+$ pwd
+/home/ccuser/workspace/daily-buzz
+$ mkdir business
+$ cd business
+$ pwd
+/home/ccuser/workspace/daily-buzz/business
+$ ls
+$ mkdir startups
+$ cd startups
+$ pwd
+/home/ccuser/workspace/daily-buzz/business/startups
+$ cd ../
+$ mkdir startups/disruptors
+$ pwd
+/home/ccuser/workspace/daily-buzz/business
+$ touch startups/disruptors/tech.txt
+$ touch startups/disruptors/design.txt
+$ touch startups/disruptors/education.txt
+$ ls
+startups
+$ cd ../
+$ pwd
+/home/ccuser/workspace/daily-buzz
+$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
