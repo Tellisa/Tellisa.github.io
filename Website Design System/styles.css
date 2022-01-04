@@ -1,0 +1,150 @@
+
+body{
+  background-color:bisque;
+  font:Helvetica;
+  
+}
+
+.container{
+  height:auto;
+  width:auto;
+  border: 2px solid black;
+  padding: 10px 10px;
+  margin: 10px;
+  
+}
+nav{
+  justify-content:flex-end;
+  background-color: #333;
+  color:white;
+  padding:15px; 
+}
+
+nav a{
+  text-align:center;
+  text-decoration:none;
+  color:white;
+  margin:10px;
+  font-size: 18px;
+
+  
+}
+
+nav  a:hover{
+  color:lightblue;
+  background-color:grey;
+  padding:15px;
+  font-weight:bold;
+
+
+}
+
+.color{
+  display:inline-block;
+  color:white;
+  height:100px;
+  width:200px;
+  text-align:center;
+  border: 1px solid black;
+  border-radius: 12px;
+  margin:10px;
+}
+.color-container{
+  
+ 
+}
+.font{
+  display:inline-block;
+  margin:10px 10px;
+
+}
+.font-name{
+  text-decoration:underline;
+  
+}
+.regular-roboto,.font-name.roboto{
+  font-family:Roboto;
+  font-weight: 400;
+  font-style:normal;
+}
+.italic-roboto{
+  font-family:Roboto;
+  font-weight: 400;
+  font-style:italic;
+}
+
+.bold-roboto{
+  font-family:Roboto;
+  font-weight: 700;
+  font-style:normal;
+}
+
+.regular-merriweather, .font-name.merriweather{
+  font-family:Merriweather;
+  font-weight: 400;
+  font-style:normal;
+}
+  
+.italic-merriweather{
+  font-family:Merriweather;
+  font-weight: 400;
+  font-style:italic;
+}
+
+.bold-merriweather{
+  font-family:Merriweather;
+  font-weight: 700;
+  font-style:normal;
+}
+
+.regular-ubuntu,.font-name.ubuntu{
+  font-family:Ubuntu;
+  font-weight: 400;
+  font-style:normal;
+}
+
+.italic-ubuntu{
+  font-family:Ubuntu;
+  font-weight: 400;
+  font-style:italic;
+}
+
+.bold-ubuntu{
+  font-family:Ubuntu;
+  font-weight: bold;
+  font-style:normal;
+}
+
+.regular-raleway,.font-name.raleway{
+  font-family:Raleway;
+  font-weight: 400;
+  font-style:normal;
+}
+
+.italic-raleway{
+  font-family:Raleway;
+  font-weight: 400;
+  font-style:italic;
+}
+
+.bold-raleway{
+  font-family:Raleway;
+  font-weight: 700;
+  font-style:normal;
+}
+
+#deep-purple{
+  background-color:#560866;
+}
+#dark-gold{
+  background-color:#B3A820;
+}
+#brown-green{
+  background-color:#665F0D;
+}
+#light-green{
+  background-color:#20B330;
+}
+#dark-green{
+  background-color:#03660E;
+}
