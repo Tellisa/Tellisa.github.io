@@ -9,10 +9,17 @@
   text-align: left;
   color: hsla(0, 0%, 100%, 1);;
 }
-img{
+.products img{
   height:100px;
   width:100px;
 }
+.product-list img{
+  height:100px;
+  width:100px;
+
+
+}
+  
   
 
 .blueberry {
