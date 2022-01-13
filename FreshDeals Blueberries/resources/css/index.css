@@ -9,6 +9,11 @@
   text-align: left;
   color: hsla(0, 0%, 100%, 1);;
 }
+img{
+  height:100px;
+  width:100px;
+}
+  
 
 .blueberry {
   background-image: url('resources/img/blueberries.png');
